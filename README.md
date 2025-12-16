@@ -4,6 +4,9 @@ ZenithFlow是一个结合GTD、时间盒、番茄时钟与日程管理的个人�
 
 ## 功能特性
 
+<img width="1912" height="1074" alt="image" src="https://github.com/user-attachments/assets/dc07b62c-0698-49d2-8e79-36efcffa4326" />
+
+
 ### 核心功能
 - **任务管理**：创建、编辑、删除任务，支持任务优先级、标签和分类
 - **日历视图**：日视图、周视图、月视图，直观展示任务安排
@@ -15,6 +18,9 @@ ZenithFlow是一个结合GTD、时间盒、番茄时钟与日程管理的个人�
 ### 视图模式
 - **工作台**：默认视图，集成日历和任务管理
 - **导航**：自定义导航页面，支持添加、编辑和分类管理常用网站
+
+  <img width="1803" height="780" alt="image" src="https://github.com/user-attachments/assets/90965ee3-daf7-4c9c-a6ec-17b10aa7a9c5" />
+
 
 ## 技术栈
 
